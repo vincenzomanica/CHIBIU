@@ -1,0 +1,11 @@
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\bin\Debug\Projeto do Chibiu.2.exe.config
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\bin\Debug\Projeto do Chibiu.2.exe
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\bin\Debug\Projeto do Chibiu.2.pdb
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto do Chibiu.2.csproj.AssemblyReference.cache
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto_do_Chibiu._2.Form1.resources
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto_do_Chibiu._2.Properties.Resources.resources
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto do Chibiu.2.csproj.GenerateResource.cache
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto do Chibiu.2.csproj.CoreCompileInputs.cache
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto do Chibiu.2.exe
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto do Chibiu.2.pdb
+C:\Users\vincenzo.manica\source\repos\Projeto do Chibiu.2\Projeto do Chibiu.2\obj\Debug\Projeto_do_Chibiu._2.MDIPrincipal.resources
