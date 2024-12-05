@@ -103,5 +103,10 @@ namespace Projeto_do_Chibiu._2
                 childForm.Close();
             }
         }
+
+        private void btnCadstroImoveis_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
